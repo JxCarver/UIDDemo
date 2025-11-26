@@ -1,3 +1,3 @@
-Basic demo for a card scanning access control system that uses only UIDs without any encryption. Accurately simulates an environment where MiFare has not been set up properly and is therefore vulnerable.
+Basic demo for a card-scanning access control system that relies solely on NFC card UIDs without any encryption. This setup accurately simulates an environment where MiFare cards have not been properly configured and are therefore vulnerable to cloning and spoofing.
 
 
